@@ -28,12 +28,15 @@
 Какие уязвимости были вами обнаружены? (список со ссылками: достаточно трёх уязвимостей)
 
 1. Pachev FTP Server 1.0 - Path Traversal
+
 [1](https://www.exploit-db.com/exploits/47956)
 
 2. OpenSSH < 7.4 - agent Protocol Arbitrary Library Loading
+
 [2](https://www.exploit-db.com/exploits/40963)
 
 3. Polycom HDX - Telnet Authentication Bypass (Metasploit)
+
 [3](https://www.exploit-db.com/exploits/24494)
 
 ### Задание 2
