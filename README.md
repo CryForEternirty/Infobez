@@ -29,17 +29,19 @@
 
 Какие уязвимости были вами обнаружены? (список со ссылками: достаточно трёх уязвимостей)
 
-1. Pachev FTP Server 1.0 - Path Traversal
+1. vsftpd 2.3.4 - Backdoor Command Execution
 
-[1](https://www.exploit-db.com/exploits/47956)
+[1](https://www.exploit-db.com/exploits/49757)
 
-2. OpenSSH < 7.4 - agent Protocol Arbitrary Library Loading
+2. UnrealIRCd 3.2.8.1
 
-[2](https://www.exploit-db.com/exploits/40963)
+[2](https://www.exploit-db.com/exploits/13853)
 
-3. Polycom HDX - Telnet Authentication Bypass (Metasploit)
+3. Samba smbd 3.X - 4.X
 
-[3](https://www.exploit-db.com/exploits/24494)
+[3](https://www.exploit-db.com/exploits/42060)
+
+Указал к сервисам со скрина
 
 ### Задание 2
 
